@@ -1,0 +1,13 @@
+Index,Distance,Time
+0,actual_distance_to_destination,actual_time
+1,actual_distance_to_destination,osrm_time
+2,actual_distance_to_destination,segment_osrm_time
+3,actual_distance_to_destination,segment_actual_time
+4,osrm_distance,actual_time
+5,osrm_distance,osrm_time
+6,osrm_distance,segment_osrm_time
+7,osrm_distance,segment_actual_time
+8,segment_osrm_distance,actual_time
+9,segment_osrm_distance,osrm_time
+10,segment_osrm_distance,segment_osrm_time
+11,segment_osrm_distance,segment_actual_time
